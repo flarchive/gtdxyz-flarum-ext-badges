@@ -1,0 +1,57 @@
+.BadgeModal {
+  color:#222;
+
+  .Select {
+    display: block;
+
+    select {
+      width: 100%;
+    }
+  }
+
+  &.BadgeModal-plain{
+    .Modal-header{
+      padding:0;
+    }
+    .Modal-body{
+      padding: 0px 0px 25px;
+      background:#fff;
+    }
+    .BadgeModalListItem{
+      padding:0 20px;
+    }
+    .Modal-footer{
+      border-top:1px solid #eee;
+    }
+  }
+  
+
+  .BadgeModalListItem {
+    margin-bottom: 10px;
+    &.name{
+      text-align:center;
+      padding: 20px 0px;
+      i {
+        font-size:60px;
+      }
+    }
+    &.description{
+      .name{
+        font-size:16px;
+      }
+    }
+    img.icon{
+      width: 60%;
+      margin: 0 auto;
+    }
+    
+    p {
+      margin: 0 0 5px;
+    }
+  }
+
+  .UserHasBadge {
+    margin: 10px 0 0;
+    color: #d61111;
+  }
+}
