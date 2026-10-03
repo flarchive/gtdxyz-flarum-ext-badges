@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of gtdxyz/flarum-ext-badges.** Not for installation: use [Packagist](https://packagist.org/packages/gtdxyz/flarum-ext-badges) or the [upstream repository](https://github.com/daocatt/flarum-ext-badges).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/gtdxyz-flarum-ext-badges/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.8.0`
+**2** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/gtdxyz-flarum-ext-badges/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2024-03-21 | `^1.8.0` | [Browse](https://github.com/flarchive/gtdxyz-flarum-ext-badges/tree/archive/v1.0) |
+| `1.0.1` | 2024-11-08 | `^1.8.0` | [Browse](https://github.com/flarchive/gtdxyz-flarum-ext-badges/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/gtdxyz-flarum-ext-badges.json](https://github.com/flarchive/archive-index/blob/main/packages/gtdxyz-flarum-ext-badges.json)
 
